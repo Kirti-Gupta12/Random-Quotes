@@ -8,5 +8,9 @@
 
 <br><br>
 
-Here is the Overview!
-https://user-images.githubusercontent.com/87939523/186511709-1fbcdc59-132f-45a3-b465-67a631b5b964.mp4
+Here is the [Overview](https://kirti-gupta12.github.io/Random-Quotes/)!
+
+<br>
+
+https://user-images.githubusercontent.com/87939523/186513047-9c24d65c-7d49-4a66-a2e0-8f1facb1afe9.mp4
+
