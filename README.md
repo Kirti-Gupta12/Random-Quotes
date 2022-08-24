@@ -12,5 +12,6 @@ Here is an [Overview](https://kirti-gupta12.github.io/Random-Quotes/)!
 
 <br>
 
-https://user-images.githubusercontent.com/87939523/186513047-9c24d65c-7d49-4a66-a2e0-8f1facb1afe9.mp4
+
+https://user-images.githubusercontent.com/87939523/186515240-0f6b37ff-4856-4927-a45d-54dd6d72311f.mp4
 
