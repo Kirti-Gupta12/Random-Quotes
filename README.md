@@ -8,7 +8,7 @@
 
 <br><br>
 
-Here is the [Overview](https://kirti-gupta12.github.io/Random-Quotes/)!
+Here is an [Overview](https://kirti-gupta12.github.io/Random-Quotes/)!
 
 <br>
 
